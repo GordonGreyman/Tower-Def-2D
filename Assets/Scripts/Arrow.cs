@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
-using UnityEngine;
+using UnityEngine;  
 
 public class Arrow : MonoBehaviour
 {
@@ -12,7 +12,7 @@ public class Arrow : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //salamsuck
     }
 
     // Update is called once per frame
