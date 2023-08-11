@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Arrow
+  - House
+  - Tower
+  - Environment
+  - Windmill
+  - Farm
+  - Wall
+  - Spawner
+  - Checkpoint
+  - Tree
+  - Stone
+  - End
+  - StoneMason
+  - WoodCutter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Build Layer
+  - Collision Layer
+  - Tree Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 930233881
+    locked: 0
+  - name: Environment
+    uniqueID: 2887004287
+    locked: 0
+  - name: Foreground
+    uniqueID: 1414313073
+    locked: 0
+  - name: Clouds
+    uniqueID: 3738754347
+    locked: 0
